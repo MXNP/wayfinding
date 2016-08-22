@@ -1,0 +1,40 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://mxnp.github.io/wayfinding" resolutions="1x,2x" timestamp="1471883412162">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3941404404" ref="index"/>
+    <file name="index.css" crc="3947853625" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="sthslogocrest.png" crc="4270553923" seo="true" ref="index"/>
+    <file name="sthslogocrest_2x.png" crc="421396302" seo="true" ref="index"/>
+    <file name="visualeditor_-_icon_-_menusvg-u113-3-fr.png" crc="302133945" ref="index"/>
+    <file name="visualeditor_-_icon_-_menusvg-u113-3-fr_2x.png" crc="271488267" ref="index"/>
+    <file name="visualeditor_-_icon_-_menusvg-u113-3-a-fr.png" crc="4156244004" ref="index"/>
+    <file name="visualeditor_-_icon_-_menusvg-u113-3-a-fr_2x.png" crc="4194577707" ref="index"/>
+    <file name="u131-4.png" crc="486736897" ref="index"/>
+    <file name="u131-4_2x.png" crc="4273913339" ref="index"/>
+    <file name="u158-4.png" crc="4074417049" ref="index"/>
+    <file name="u158-4_2x.png" crc="3761075447" ref="index"/>
+    <file name="u173-4.png" crc="3961595495" ref="index"/>
+    <file name="u173-4_2x.png" crc="4138229884" ref="index"/>
+    <file name="u174-4.png" crc="4114833697" ref="index"/>
+    <file name="u174-4_2x.png" crc="81114209" ref="index"/>
+    <file name="u163-4.png" crc="268811580" ref="index"/>
+    <file name="u163-4_2x.png" crc="4086234555" ref="index"/>
+    <file name="u164-4.png" crc="4283186831" ref="index"/>
+    <file name="u164-4_2x.png" crc="4167297192" ref="index"/>
+    <file name="map.png" crc="4134316074" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3804075232" seo="true" mt="1471883400190" redirect="true"/>
+</manifest>

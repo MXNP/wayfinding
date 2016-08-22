@@ -1,0 +1,128 @@
+#u91
+{
+	background-color: #FF5E5E;
+}
+
+#accordionu105
+{
+	border-color: #222222;
+	background-color: transparent;
+	position: relative;
+}
+
+#u113-3
+{
+	border-style: none;
+	border-color: transparent;
+	line-height: 14px;
+	color: #999999;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg-u113-3-fr.png") no-repeat left center;
+	background-size: contain;
+}
+
+#u113-3:hover
+{
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg-u113-3-fr.png") no-repeat left center;
+	background-size: contain;
+}
+
+#u113-3:active
+{
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg-u113-3-fr.png") no-repeat left center;
+	background-size: contain;
+}
+
+#u113-3.AccordionPanelTabOpen
+{
+	background: transparent url("../images/visualeditor_-_icon_-_menusvg-u113-3-a-fr.png") no-repeat left center;
+	background-size: contain;
+}
+
+#u113-3.AccordionPanelTabOpen p
+{
+	color: #4F4F4F;
+	visibility: inherit;
+}
+
+.hidpi #u113-3,.hidpi #u113-3:hover,.hidpi #u113-3:active
+{
+	background-image: url("../images/visualeditor_-_icon_-_menusvg-u113-3-fr_2x.png");
+}
+
+.hidpi #u113-3.AccordionPanelTabOpen
+{
+	background-image: url("../images/visualeditor_-_icon_-_menusvg-u113-3-a-fr_2x.png");
+}
+
+#u111
+{
+	-pie-box-shadow: 180px 0px 0px #7F7F7F;
+	box-shadow: 180px 0px 0px rgba(0,0,0,0.5);
+	border-style: solid;
+	border-color: #777777;
+	background-color: #FFFFFF;
+	position: relative;
+	border-width: 0px 1px 0px 0px;
+}
+
+#menuu119
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u99,#u110,#u127
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u128
+{
+	border-style: solid;
+	border-color: #DDDDDD;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 1px;
+}
+
+#u128:hover
+{
+	background-color: #EEEEEE;
+}
+
+#u128:active
+{
+	background-color: #CCCCCC;
+}
+
+#u128.MuseMenuActive
+{
+	background-color: #DACA88;
+}
+
+#u131-4
+{
+	position: relative;
+}
+
+#u131-4_clip
+{
+	overflow: hidden;
+	vertical-align: top;
+}
+
+#u131-4_img
+{
+	display: block;
+}
+
+.MenuItem,.AccordionPanelTab /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
