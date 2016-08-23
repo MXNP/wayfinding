@@ -1,0 +1,25 @@
+#u582
+{
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DACA88;
+	background-color: transparent;
+	position: relative;
+}
+
+#u584
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #F0F0F0;
+	background-color: transparent;
+	position: relative;
+}
+
+#u583-4,#u585-4,#u586-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
